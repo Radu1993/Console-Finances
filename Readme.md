@@ -18,7 +18,7 @@ Task: write JavaScript code that analyzes the records to calculate each of the f
 
 - [x] The greatest decrease in profits (date and amount) over the entire period.
 
-Some of data doesn't work properly in the console.
+
 
 ## Credits
 
